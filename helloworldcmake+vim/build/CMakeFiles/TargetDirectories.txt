@@ -1,0 +1,3 @@
+/home/musongfangchen/HelloWorld/helloworldcmake+vim/build/CMakeFiles/edit_cache.dir
+/home/musongfangchen/HelloWorld/helloworldcmake+vim/build/CMakeFiles/rebuild_cache.dir
+/home/musongfangchen/HelloWorld/helloworldcmake+vim/build/CMakeFiles/helloworld.dir
